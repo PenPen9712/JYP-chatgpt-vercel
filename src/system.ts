@@ -27,4 +27,4 @@ export const defaultMaxInputTokens: Record<Model, number> = {
   "gpt-4-32k": 24576
 }
 
-export const defaultModel: Model = "gpt-3.5-turbo"
+export const defaultModel: Model = "gpt-3.5-turbo";
