@@ -15,7 +15,7 @@ export const defaultMessage = `Powered by OpenAI Vercel
 - [[Shift]] + [[Enter]] 换行。开头输入 [[/]] 或者 [[空格]] 搜索 Prompt 预设。[[↑]] 可编辑最近一次提问。点击顶部名称滚动到顶部，点击输入框滚动到底部
 - 这个项目是从"https://github.com/ourongxing/chatgpt-vercel" copy过来的，如果你懂程序，可以自己部署一个
 - 自己有gpt的api的话可以替换一下
-- 如果本项目对你有所帮助，可以给唯一指定支付宝邮箱460166693@qq.com买杯咖啡
+- 如果本项目对你有所帮助，可以给唯一指定支付宝邮箱460166693@qq.com买杯咖啡'
 
 export type Setting = typeof defaultSetting
 
